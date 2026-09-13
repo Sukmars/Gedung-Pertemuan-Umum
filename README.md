@@ -1,2 +1,2 @@
-# Gedung-Pertemuan-Umum
-Perencanaan Gedung Pertemuan Umum dengan konsep dan detail budaya Batak
+# GAMBAR PERENCANAAN DAN DETAIL
+Perencanaan hunian dan gedung s.d 16 lt
